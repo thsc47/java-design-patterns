@@ -1,14 +1,13 @@
 package com.project.factory.apple.factory;
 
 import com.project.factory.apple.model.IPhone;
-import com.project.factory.apple.model.IPhoneXSMax;
+import com.project.factory.apple.model.IPhone11;
 
-public class IphoneXSMaxFactory extends IPhoneFactory{
+public class Iphone11 extends IPhoneFactory{
 
     @Override
     protected IPhone createIphone() {
-        return new IPhoneXSMax();
+        return new IPhone11();
     }
-
     
 }
