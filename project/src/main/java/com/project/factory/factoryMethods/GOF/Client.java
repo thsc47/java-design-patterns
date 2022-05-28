@@ -1,8 +1,8 @@
-package com.project.factory.factoryMethods.GOF.apple;
+package com.project.factory.factoryMethods.GOF;
 
-import com.project.factory.factoryMethods.GOF.apple.factory.IphoneXFactory;
-import com.project.factory.factoryMethods.GOF.apple.factory.IphoneXSMaxFactory;
-import com.project.factory.factoryMethods.GOF.apple.model.IPhone;
+import com.project.factory.factoryMethods.GOF.factory.IphoneXFactory;
+import com.project.factory.factoryMethods.GOF.factory.IphoneXSMaxFactory;
+import com.project.factory.factoryMethods.GOF.model.IPhone;
 
 public class Client {
 	

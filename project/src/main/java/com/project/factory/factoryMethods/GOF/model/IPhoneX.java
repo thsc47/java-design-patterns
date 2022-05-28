@@ -1,4 +1,4 @@
-package com.project.factory.factoryMethods.GOF.apple.model;
+package com.project.factory.factoryMethods.GOF.model;
 
 public class IPhoneX extends IPhone {
 

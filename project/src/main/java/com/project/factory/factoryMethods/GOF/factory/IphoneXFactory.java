@@ -1,7 +1,7 @@
-package com.project.factory.factoryMethods.GOF.apple.factory;
+package com.project.factory.factoryMethods.GOF.factory;
 
-import com.project.factory.factoryMethods.GOF.apple.model.IPhone;
-import com.project.factory.factoryMethods.GOF.apple.model.IPhoneX;
+import com.project.factory.factoryMethods.GOF.model.IPhone;
+import com.project.factory.factoryMethods.GOF.model.IPhoneX;
 
 public class IphoneXFactory extends IPhoneFactory{
 
